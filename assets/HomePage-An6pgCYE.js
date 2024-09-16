@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as n,a as r,w as a,r as s,o as c,b as i}from"./index-nTUFLLF7.js";const _={};function l(m,e){const o=s("router-link");return c(),n("div",null,[r(o,{to:{name:"sign-in"}},{default:a(()=>e[0]||(e[0]=[i("Sign In")])),_:1})])}const p=t(_,[["render",l]]);export{p as default};
