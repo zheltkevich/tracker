@@ -1,1 +1,0 @@
-import{_ as t,c as n,a as r,w as a,r as s,o as c,b as _}from"./index-g20RuAk8.js";const d={};function l(i,e){const o=s("router-link");return c(),n("div",null,[r(o,{to:{name:"dashboard"}},{default:a(()=>e[0]||(e[0]=[_("To Dashboard")])),_:1})])}const m=t(d,[["render",l]]);export{m as default};

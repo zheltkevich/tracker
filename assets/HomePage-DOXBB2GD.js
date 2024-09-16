@@ -1,1 +1,0 @@
-import{_ as o,c as t,a as r,w as a,r as s,o as c,b as _}from"./index-g20RuAk8.js";const i={};function l(m,e){const n=s("router-link");return c(),t("div",null,[r(n,{to:{name:"sign-in"}},{default:a(()=>e[0]||(e[0]=[_("Sign In")])),_:1})])}const f=o(i,[["render",l]]);export{f as default};
