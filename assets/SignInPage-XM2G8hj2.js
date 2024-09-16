@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as r,a as n,w as a,r as s,o as c,b as _}from"./index-C9iqa8CL.js";const d={};function l(i,e){const o=s("router-link");return c(),r("div",null,[n(o,{to:{name:"dashboard"}},{default:a(()=>e[0]||(e[0]=[_("To Dashboard")])),_:1})])}const p=t(d,[["render",l]]);export{p as default};
